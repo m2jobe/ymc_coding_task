@@ -1,3 +1,8 @@
+Task: visualize the data from attached JSON file, using charting library of your choice
+
+Charting library used: E-charts (https://github.com/hustcc/echarts-for-react)
+React slignshot used as starter kit to deal with set up of redux stores and routing
+
 <p align="center">
   <img src="https://cloud.githubusercontent.com/assets/3129129/22811426/bb69dc06-ef0c-11e6-8092-a0bea9060b35.png"/>
 </p>
